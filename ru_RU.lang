@@ -1,0 +1,234 @@
+##########Names of the Tabs
+Tab.Armor.Name=Древние Доспехи
+Tab.Blocks.Name=Древние Блоки
+Tab.Combat.Name=Древние Оружия
+Tab.Food.Name=Древняя Еда
+Tab.Items.Name=Древние Предметы
+Tab.Material.Name=Древние Материалы
+Tab.Tools.Name=Древние Инструменты
+##########Names of all new Blocks
+Block.Fossil.Name=Окаменелость
+Block.Skull.Name=Череп
+Block.SkullLantern.Name=Светящийся Череп
+Block.Analyzer.Name=Анализатор
+Block.CultureVat.Name=Инкубатор
+Block.Workbench.Name=Археологический верстак
+Block.Drum.Name=Барабан Приказа
+Block.Feeder.Name=Кормушка
+Block.Permafrost.Name=Замерзшая земля
+Block.IcedStone.Name=Ледянной камень
+Block.TimeMachine.Name=Машина Времени
+Block.Tar.Name=Смола
+Block.PalLog.Name=Палеорафный Журнал
+Block.PalLeaves.Name=Палеорафные Листья
+Block.PalSap.Name=Палеорафный Саженец
+Block.PalPlank.Name=Палеорафные Доски
+##########Names of all new Items
+Item.BioFossil.Name=Био-Окаменелость
+Item.Relic.Name=Реликтовые Останки
+Item.Tablet.Name=Каменная Табличка
+Item.BrokenSword.Name=Сломанный Древний Меч
+Item.AncientSword.Name=Древний Меч
+Item.FernSeeds.Name=Семена Папоротника
+Item.BrokenHelmet.Name=Сломаный Древний Шлем
+Item.AncientHelmet.Name=Древний Шлем
+Item.SkullStick.Name=Желз Черепа
+Item.LivingNautilus.Name=Живой Наутилус
+Item.Gem.Name=Медальон Скарабея
+Item.ScarabAxe.Name=Топор Скарабея
+Item.ScarabPickAxe.Name=Кирка Скарабея
+Item.ScarabSword.Name=Меч Скарабея
+Item.ScarabHoe.Name=Мотыга Скарабея
+Item.ScarabShovel.Name=Лопата Скарабея
+Item.DinoPedia.Name=Динопедия
+Item.Tooth.Name=Зуб Т-Рекса
+Item.Dagger.Name=Зубной Кинджал
+Item.RawChickenSoup.Name=Сырой Куринный Суп
+Item.CookedChickenSoup.Name=Куринный Суп
+Item.EOC.Name=Куринная Эссенция
+Item.Shell.Name=Пустая Раковина
+Item.SJL.Name=Сио-Чиу-Лэ
+Item.IcedMeat.Name=Мороженое Мясо
+Item.WoodJavelin.Name=Деревянное Копье
+Item.StoneJavelin.Name=Каменное Копье
+Item.IronJavelin.Name=Железное Копье
+Item.GoldJavelin.Name=Золотое Копье
+Item.DiamondJavelin.Name=Алмазное Копье
+Item.AncientJavelin.Name=Древнее Копье
+Item.Whip.Name=Кнут
+Item.MagicConch.Name=Магическая Раковина
+Item.LegBone.Name=Бедренная Кость
+Item.Claw.Name=Коготь
+Item.Foot.Name=Нога
+Item.Skull.Name=Череп
+Item.BrokenSapling.Name=Окаменелое Растение
+Item.SkullHelmet.Name=Костянной Шлем
+Item.RibCage.Name=Грудная Клетка
+Item.Femurs.Name=Щитки
+Item.Feet.Name=Ноги
+##########Dino Meat Names
+Item.DinoSteak.Name=Стэйк из Динозавра
+Item.rawTriceratops.Name=Мясо Трицератопса
+Item.rawVelociraptor.Name=Мясо Велоцираптора
+Item.rawTRex.Name=Мясо Т-Рекса
+Item.rawPterosaur.Name=Мясо Птерозавра
+Item.rawNautilus.Name=Мясо Наутилуса
+Item.rawPlesiosaur.Name=Мясо Плезиозавра
+Item.rawMosasaurus.Name=Мясо Мозазавра
+Item.rawStegosaurus.Name=Мясо Стегозавра
+Item.rawDilophosaurus.Name=Мясо Дилофозавра
+Item.rawBrachiosaurus.Name=Мясо Брахиозавра
+##########Dino Egg Names
+Item.eggTriceratops.Name=Яйцо Трицератопса
+Item.eggVelociraptor.Name=Яйцо Велоцираптора
+Item.eggTRex.Name=Яйцо Т-Рекса
+Item.eggPterosaur.Name=Яйцо Птерозавра
+Item.shellNautilus.Name=Раковина Наутилуса
+[bk]Item.eggPlesiosaur.Name=Яйцо Плезиозавра
+[bl]Item.eggMosasaurus.Name=Яйцо Мозазавра
+Item.eggStegosaurus.Name=Яйцо Стегозавра
+Item.eggDilophosaurus.Name=Яйцо Дилофозавра
+Item.eggBrachiosaurus.Name=Яйцо Брахиозавра
+##########Dino DNA Names
+Item.dnaTriceratops.Name=ДНК Трицератопса
+Item.dnaVelociraptor.Name=ДНК Велоцираптора
+Item.dnaTRex.Name=ДНК Т-Рекса
+Item.dnaPterosaur.Name=ДНК Птерозавра
+Item.dnaNautilus.Name=ДНК Наутилуса
+Item.dnaPlesiosaur.Name=ДНК Плезиозавра
+Item.dnaMosasaurus.Name=ДНК Мозазавра
+Item.dnaStegosaurus.Name=ДНК Стегозавра
+Item.dnaDilophosaurus.Name=ДНК Дилофозавра
+Item.dnaBrachiosaurus.Name=ДНК Брахиозавра
+##########Other DNA
+Item.dnaPig.Name=ДНК Свиньи
+Item.dnaSheep.Name=ДНК Овцы
+Item.dnaCow.Name=ДНК Коровы
+Item.dnaChicken.Name=ДНК Курицы
+Item.dnaSaberCat.Name=ДНК Саблезуба
+Item.dnaMammoth.Name=ДНК Мамонта
+##########Other Embryo
+Item.embryoPig.Name=Эмбрион Свиньи
+Item.embryoSheep.Name=Эмбрион Овцы
+Item.embryoCow.Name=Эмбрион Коровы
+Item.embryoChicken.Name=Эмбрион Курицы
+Item.embryoSaberCat.Name=Эмбрион Саблезуба
+Item.embryoMammoth.Name=Эмбрион Мамонта
+#
+DNAName.Head=ДНК
+DNAName.Tail=
+#
+EmbyoName.Head=Эмбрион
+EmbyoName.Tail=
+#
+MeatName.Head=Мясо
+MeatName.Tail=
+#
+MGCName.Head=Магическая Раковина:
+MGCName.Tail=
+#
+DEggName.Head=Яйцо
+DEggName.Tail=
+#
+Achieve.PigBossOnEarth.Name=Ты нарушил правила!!!
+Achieve.PigBossOnEarth.Desc=Призыв Ану на Землю.
+##########Order.Head Order.x
+Order.Head=Приказ:
+Order.Stay=Стоять
+Order.Follow=Следовать
+Order.FreeMove=Гулять
+##########Status.x.Head DinoName Status.x
+Status.Hungry.Head=Динозавр
+Status.Hungry=хочет есть.
+[co]Status.Starve.Head=Динозавр
+Status.Starve=умер от голода.
+Status.LearningChest.Head=Динозавр
+Status.LearningChest=научился использовать сундуки.
+Status.Betrayed.Head=Динозавр
+Status.Betrayed=не будет больше доверять человечеству.
+Status.NoSpace.Head=Динозавру
+Status.NoSpace=не хватает места чтобы расти.
+Status.StarveEsc.Head=Динозавр
+Status.StarveEsc=сбежал изза отсутствия еды.
+Status.SJLBite=кусай Сиу-Джиу-Лэ и убегай прочь.
+Status.ChewTime=нужно время, чтобы жевать.
+Status.Full=полный.
+Status.Nervous.Head=Ты стал
+Status.Nervous=слишком нервным, чтобы охотиться сам.
+Status.GemErrorYoung=Т-Рекс все еще слишком маленький.
+Status.GemErrorHealth=Скрабей не может позволить себе такую ​​сильную жизненную энергию.
+########## Name of the dino, only 11 digits
+Dino.Triceratops=Трицератопс
+Dino.Velociraptor=Велоцираптор
+Dino.TRex=Т-Рекс
+Dino.Pterosaur=Птерозавр
+Dino.Plesiosaur=Плезиозавр
+Dino.Mosasaurus=Мозазавр
+Dino.Stegosaurus=Стегозавр
+Dino.Dilophosaurus=Дилофозавр
+Dino.Brachiosaurus=Брахиозавр
+Dino.Nautilus=Наутилус
+##########Names of the Animals
+Animal.Mammoth=Мамонт
+Animal.SaberCat=Саблезуб
+##########General Dino Messages, Only 11 Digits
+PediaText.Owner=Хозяин:
+PediaText.Chest=* Сундуки
+[dh]PediaText.Caution=!!!Опасный!!!
+PediaText.Rideable=* Ездовой
+PediaText.Weak=Мочти Мертвый
+PediaText.Fly=* Летательный
+##########Dino Egg Messages, Only 11 Digits
+PediaText.egg.Head=Яйцо
+PediaText.egg.wet=Влажное
+PediaText.egg.dry=Сухое
+PediaText.egg.warm=Теплое
+PediaText.egg.cold=Холодное
+PediaText.egg.Status=Состояние:
+PediaText.egg.Progress=Высиживание:
+PediaText.Day=День
+PediaText.Days=Дней
+##########Embryo Messages, only 11 Digits
+PediaText.Embryo.inside=Эмбрион в:
+PediaText.Embryo.growing=Прогресс:
+PediaText.Embryo.Pig=Свинья
+PediaText.Embryo.Sheep=Овца
+PediaText.Embryo.Cow=Корова
+PediaText.Embryo.Chicken=Курица
+PediaText.Embryo.SaberCat=Саблезуб
+PediaText.Embryo.Mammoth=Мамонт
+#
+AnuSpeaker.self=Ану:
+AnuSpeaker.Hello=На колени, сопротивление бесполезно.
+AnuSpeaker.BareHand=Голыми руками ... Храбрый.
+AnuSpeaker.Draw=ОБНАЖИ СВОЙ МЕЧ, Малышь.
+AnuSpeaker.Coward=Лук для трусов! Зватит прятаться!
+AnuSpeaker.LeartHere=Смотри, что я узнал от сюда!
+AnuSpeaker.LeartThere=Смотри, что я узнал от туда!
+AnuSpeaker.UnknownRanged=Так это твое оружие
+AnuSpeaker.UnknownMelee=Ха! Хватит играть!
+AnuSpeaker.summon=Помогите мне, мои слуги.
+AnuSpeaker.Trans=Бруты, пробудите вашу мудрость.
+AnuSpeaker.Qi=Ци-шок!
+AnuSpeaker.FireRain=Давай прольем немного огня!
+#
+FPZSpeaker.self=Свинозомби:
+FPZSpeaker.SelfKill=Мы не можем жить без лидера!
+FPZSpeaker.LifeFor.head=Мою жизнь за
+FPZSpeaker.LifeFor.tail=!!!
+FPZSpeaker.AnuSommon=Все за Ану!!!
+########## Dinoegg.Head Dinoname(automatically) Dinoegg.x
+Dinoegg.Head=Яйцо
+Dinoegg.dry= погибло от засухи.
+Dinoegg.cold= погибло от холода.
+########## Dinoegg.x
+Dinoegg.Hatched=Из яйца вылупился динозавр!
+Dinoegg.NoSpace=Это яйцо не может спавниться здесь.
+########## A failure in dna cultivating
+Cultivate.OutBreak=Осторожно! Инкубация не удалась!
+##########Order Drum Messages
+Drum.Trigger=Барабан Приказ:
+Drum.Ordering=Приказывает
+Drum.TRex1=Приказывает Т-Рексам идти завтракать.
+Drum.TRex2=Приказывает Т-Рексам идти обедать.
+Drum.TRex3=Приказывает Т-Рексам идти ужинать.
